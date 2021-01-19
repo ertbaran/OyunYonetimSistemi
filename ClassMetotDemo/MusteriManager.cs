@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 
 namespace ClassMetotDemo
 {
-    // Musteri ekleme, listeleme,silme gibi metotları simule ediniz.
     class MusteriManager
     {
         public static void MusteriEkle(string tcNo, string ad, string soyad, Musteri[] musteriler)
