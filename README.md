@@ -1,3 +1,3 @@
 # ClassMetotDemo
-## kodlama.io
+### kodlama.io
 Öğrenme ve pekiştirme amaçlı temel bir demo.
