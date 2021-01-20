@@ -19,7 +19,7 @@ namespace ClassMetotDemo
                     musteri.TC = tcNo;
                     musteri.Ad = ad;
                     musteri.Soyad = soyad;
-                    Console.WriteLine("11121314151 | " + musteri.Ad + " " + musteri.Soyad + " kişisi eklendi. ");
+                    Console.WriteLine(musteri.TC + " | " + musteri.Ad + " " + musteri.Soyad + " kişisi eklendi. ");
                     break;
                 }
             }
