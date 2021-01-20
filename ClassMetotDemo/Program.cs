@@ -5,7 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace ClassMetotDemo
-{
+{   // Kodların işleme sırasını, işleyişini daha kolay anlayabilmek için;
+    // "Breakpoint" kullanımını öğrenmeniz faydalı olacaktır.
     class Program
     {
         static void Main(string[] args)
