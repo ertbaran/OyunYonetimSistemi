@@ -1,7 +1,0 @@
-C:\Users\ertba\source\repos\DictionaryOrnekleme\DictionaryOrnekleme\bin\Debug\DictionaryOrnekleme.exe.config
-C:\Users\ertba\source\repos\DictionaryOrnekleme\DictionaryOrnekleme\bin\Debug\DictionaryOrnekleme.exe
-C:\Users\ertba\source\repos\DictionaryOrnekleme\DictionaryOrnekleme\bin\Debug\DictionaryOrnekleme.pdb
-C:\Users\ertba\source\repos\DictionaryOrnekleme\DictionaryOrnekleme\obj\Debug\DictionaryOrnekleme.csprojAssemblyReference.cache
-C:\Users\ertba\source\repos\DictionaryOrnekleme\DictionaryOrnekleme\obj\Debug\DictionaryOrnekleme.csproj.CoreCompileInputs.cache
-C:\Users\ertba\source\repos\DictionaryOrnekleme\DictionaryOrnekleme\obj\Debug\DictionaryOrnekleme.exe
-C:\Users\ertba\source\repos\DictionaryOrnekleme\DictionaryOrnekleme\obj\Debug\DictionaryOrnekleme.pdb
