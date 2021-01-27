@@ -1,0 +1,7 @@
+C:\Users\ertba\source\repos\OyunYonetimSistemi\OyunYonetimSistemi\bin\Debug\OyunYonetimSistemi.exe.config
+C:\Users\ertba\source\repos\OyunYonetimSistemi\OyunYonetimSistemi\bin\Debug\OyunYonetimSistemi.exe
+C:\Users\ertba\source\repos\OyunYonetimSistemi\OyunYonetimSistemi\bin\Debug\OyunYonetimSistemi.pdb
+C:\Users\ertba\source\repos\OyunYonetimSistemi\OyunYonetimSistemi\obj\Debug\OyunYonetimSistemi.csprojAssemblyReference.cache
+C:\Users\ertba\source\repos\OyunYonetimSistemi\OyunYonetimSistemi\obj\Debug\OyunYonetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\ertba\source\repos\OyunYonetimSistemi\OyunYonetimSistemi\obj\Debug\OyunYonetimSistemi.exe
+C:\Users\ertba\source\repos\OyunYonetimSistemi\OyunYonetimSistemi\obj\Debug\OyunYonetimSistemi.pdb
